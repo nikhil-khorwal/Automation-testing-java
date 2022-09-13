@@ -1,4 +1,4 @@
-package com.qa.runners;
+package com.qa.stepdef;
 
 import com.qa.utils.DriverManager;
 import com.qa.utils.VideoManager;
