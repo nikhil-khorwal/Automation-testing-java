@@ -1,0 +1,6 @@
+[iOS_iPhone8 INFO ] 2022-09-13 16:05:29.192 ServerManager:20 - starting appium server
+[iOS_iPhone8 INFO ] 2022-09-13 16:05:30.927 ServerManager:29 - Appium server started
+[iOS_iPhone8 INFO ] 2022-09-13 16:05:30.948 DriverManager:29 - initializing Appium driver
+[iOS_iPhone8 INFO ] 2022-09-13 16:05:30.961 PropertyManager:17 - loading config properties
+[iOS_iPhone8 INFO ] 2022-09-13 16:05:30.963 CapabilitiesManager:19 - getting capabilities
+[iOS_iPhone8 INFO ] 2022-09-13 16:05:30.965 CapabilitiesManager:43 - appUrl is/Users/nikhil.khorwal/Desktop/git/radixlearning/appium/PedsGuide/src/test/resources/apps/PedsGuide.app

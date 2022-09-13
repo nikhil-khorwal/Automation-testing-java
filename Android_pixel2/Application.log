@@ -1,0 +1,19 @@
+[Android_pixel2 INFO ] 2022-09-13 16:18:25.340 ServerManager:20 - starting appium server
+[Android_pixel2 INFO ] 2022-09-13 16:18:27.080 ServerManager:29 - Appium server started
+[Android_pixel2 INFO ] 2022-09-13 16:18:27.102 DriverManager:29 - initializing Appium driver
+[Android_pixel2 INFO ] 2022-09-13 16:18:27.115 PropertyManager:17 - loading config properties
+[Android_pixel2 INFO ] 2022-09-13 16:18:27.117 CapabilitiesManager:19 - getting capabilities
+[Android_pixel2 INFO ] 2022-09-13 16:18:27.119 CapabilitiesManager:35 - appUrl is/Users/nikhil.khorwal/Desktop/git/radixlearning/appium/PedsGuide/src/test/resources/apps/app-release.apk
+[Android_pixel2 INFO ] 2022-09-13 16:18:32.465 DriverManager:41 - Driver is initialized
+[Android_pixel2 INFO ] 2022-09-13 16:18:34.332 BasePage:130 - titleDisclaimer
+[Android_pixel2 INFO ] 2022-09-13 16:18:34.392 BasePage:58 - press accept button
+[Android_pixel2 INFO ] 2022-09-13 16:18:35.829 BasePage:130 - About PedsGuideAbout PedsGuide
+[Android_pixel2 INFO ] 2022-09-13 16:18:35.972 BasePage:130 - About PedsGuideAbout PedsGuide
+[Android_pixel2 INFO ] 2022-09-13 16:18:41.983 BasePage:130 - titleFebrile Infant
+[Android_pixel2 INFO ] 2022-09-13 16:18:42.205 BasePage:130 - titleFebrile Infant
+[Android_pixel2 INFO ] 2022-09-13 16:19:05.153 BasePage:130 - titleFebrile Infant
+[Android_pixel2 INFO ] 2022-09-13 16:19:05.318 BasePage:130 - titleFebrile Infant
+[Android_pixel2 INFO ] 2022-09-13 16:19:54.558 BasePage:130 - titleFebrile Infant
+[Android_pixel2 INFO ] 2022-09-13 16:19:54.706 BasePage:130 - titleFebrile Infant
+[Android_pixel2 INFO ] 2022-09-13 16:20:55.456 BasePage:130 - titleFebrile Infant
+[Android_pixel2 INFO ] 2022-09-13 16:20:55.600 BasePage:130 - titleFebrile Infant

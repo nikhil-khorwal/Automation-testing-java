@@ -1,0 +1,19 @@
+2022-09-13 10:35:30:848 [Appium] Welcome to Appium v1.22.3
+2022-09-13 10:35:30:849 [Appium] Non-default server args:
+2022-09-13 10:35:30:849 [Appium]   port: 20799
+2022-09-13 10:35:30:849 [Appium]   sessionOverride: true
+2022-09-13 10:35:30:850 [Appium]   logFile: /Users/nikhil.khorwal/Desktop/git/radixlearning/appium/PedsGuide/iOS_iPhone8/Server.log
+2022-09-13 10:35:30:863 [Appium] Appium REST http interface listener started on 0.0.0.0:20799
+2022-09-13 10:35:30:916 [HTTP] --> GET /wd/hub/status
+2022-09-13 10:35:30:916 [HTTP] {}
+2022-09-13 10:35:30:917 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2022-09-13 10:35:30:918 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.22.3"}}
+2022-09-13 10:35:30:921 [HTTP] <-- GET /wd/hub/status 200 4 ms - 68
+2022-09-13 10:35:30:921 [HTTP] 
+2022-09-13 10:35:30:925 [HTTP] --> GET /wd/hub/status
+2022-09-13 10:35:30:925 [HTTP] {}
+2022-09-13 10:35:30:926 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2022-09-13 10:35:30:926 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.22.3"}}
+2022-09-13 10:35:30:927 [HTTP] <-- GET /wd/hub/status 200 1 ms - 68
+2022-09-13 10:35:30:927 [HTTP] 
+2022-09-13 10:35:38:454 [Appium] Received SIGINT - shutting down
